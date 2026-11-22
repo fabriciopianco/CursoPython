@@ -1,0 +1,1 @@
+# Crie um programa que leia um numero e mostre a tabuada dele na tela.
